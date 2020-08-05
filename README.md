@@ -1,2 +1,4 @@
 # iaml-pln
-Projeto de Inteligência Artificial e Machine Learning com JavaScript de Processamento de Linguagem Natural.
+Projeto de Inteligência Artificial e Machine Learning com JavaScript.
+
+- Processamento de Linguagem Natural.
